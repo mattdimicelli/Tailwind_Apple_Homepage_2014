@@ -2,6 +2,6 @@
 @tailwind components;
 @font-face {
     font-family: 'Lucida Grande';
-    src: local('Lucida Grande'), url(../fonts/LucidaGrande.ttf) format('ttf');
+    src: local('Lucida Grande'), url(../dist/fonts/LucidaGrande.ttf) format('ttf');
 }
 @tailwind utilities;
