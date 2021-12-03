@@ -19,7 +19,13 @@ module.exports = {
       },
       fontSize: {
         'xxs': '0.65rem',
-      }
+      },
+      fontFamily: {
+        "lucidaGrande": "Lucida Grande",
+      },
+      borderWidth: {
+        'xs': '1px',
+      },
     },
   },
   variants: {
