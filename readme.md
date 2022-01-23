@@ -3,8 +3,7 @@
 
 ## Overview
 
-So... parts of The Odin Project's HTML curriculum were a bit stale...
-The project suggestion was to "clone the website of the most design-forward companies in the world"... albeit circa 2014! [This](https://web.archive.org/web/20140301004610/http://www.apple.com/) is what it looked like.  The Odin Project was emphasizing working with background photos as well as gradients.  Not wanting to be lazy, I complied.  Kind-of.  I chose to utilize Tailwind CSS to get some more practice with that, and to be honest I got kind of bored and left the webpage incomplete, at 99%.  But it's almost there!  Take a look!
+The project suggestion was to "clone the website of the most design-forward companies in the world"... albeit circa 2014! [This](https://web.archive.org/web/20140301004610/http://www.apple.com/) is what it looked like.  The Odin Project was emphasizing working with background photos as well as gradients, but I felt that there wasn't too much that I would learn by doing this project as-is, so I chose to utilize Tailwind CSS to get some more practice with that.  Nevertheless I got kind of bored and left the webpage incomplete, at 99%.  But it's almost there!  The 1% that is still pending is mostly a responsive design for smaller screen sizes.  Check it out!
 
 ### Challenge
 
@@ -34,5 +33,5 @@ The design requirements from The Odin Project are detailed
 
 ### What I learned
 
-To be honest I probably didn't learn too much here, but building a page (and paying attention to detail) is like going to the gym... it's good for you!  And I believe that it makes me a stronger coder.  
+This was more of an exercise than a true learning experience, but that's okay.  I got experience working with background images and gradients, as per the project's original intention, and I experimented with using more "old-school" layout methods such as centering with "margin: 0 auto" and "position: inline-block" (well, the Tailwind CSS equivalents), comparing it with the ease-of-use of Flexbox.  Building a page (and paying attention to detail) is like going to the gym.  It makes you a stronger coder.  
 
