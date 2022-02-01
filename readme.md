@@ -8,18 +8,18 @@ The project suggestion was to "clone the website of the most design-forward comp
 ### Challenge
 
 The design requirements from The Odin Project are detailed
-[here](https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/building-with-backgrounds-and-gradients)
+[here](https://web.archive.org/web/20211216034948/https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/building-with-backgrounds-and-gradients)
 
 ### Screenshot
 <p align="center">
-  <img src="./screenshot_for_readme.png" width="60%" height="60%">
+  <img src="./screenshot_for_readme.png" alt="clone of Apple.com homepage from 2014" width="60%" height="60%">
 </p>
 
 
 ### Links
 
-- [Live site](https://mattdimicelli.github.io/apple_homepage_2014/)
-- [Repo](https://github.com/mattdimicelli/apple_homepage_2014)
+- [Live site](https://mattdimicelli.github.io/Tailwind_Apple_Homepage_2014/)
+- [Repo](https://github.com/mattdimicelli/Tailwind_Apple_Homepage_2014/)
 
 ## My process
 
